@@ -34,7 +34,6 @@ $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
 // User Input
 $author = 'brad';
 $is_published = true;
-$is_published = true;
 $id = 1;
 
 //  positional params
