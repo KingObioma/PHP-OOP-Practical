@@ -20,10 +20,6 @@ $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
 //     echo $row->title . "<br>";
 //     }
 
-// while($row = $stmt->fetch(PDO::FETCH_OBJ)){
-//     echo $row->title . "<br>";
-//     }
-
 #PREPARED STATEMENTS(prepare & execute)
 
 
